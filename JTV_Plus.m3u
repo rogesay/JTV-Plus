@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/Q7BKVkmM/image.png" group-title="Cristianos",Júbilo TV - GT
 http://173.249.60.54/hls/jubilotv.m3u8
 #EXTINF:-1 tvg-id="JubiloTV 1.gt@SD" tvg-logo="https://i.ibb.co/Q7BKVkmM/image.png" group-title="Cristianos",Júbilo TV 2 - GT
-http://163.192.159.156:8080/stream.m3u8
+http://163.192.159.156:8080/live/jubilotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4D3mXZL/image.png" group-title="Guatemala",Canal 3 - GT
 https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Cristianos",Rhema TV - GT
