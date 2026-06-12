@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="JubiloTV.gt@SD" tvg-logo="https://i.ibb.co/Q7BKVkmM/image.png" group-title="Cristianos",Júbilo TV - GT
 http://173.249.60.54/hls/jubilotv.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a05.png",130) Tigo Sports - GT
+#EXTINF:-1 group-title="-" tvg-logo="http://181.119.111.25:4000/playlist/tvg-logo/a05.png") Tigo Sports - GT
 http://181.119.111.25:4000/play/a05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4D3mXZL/image.png" group-title="Guatemala",Canal 3 - GT
 https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8
