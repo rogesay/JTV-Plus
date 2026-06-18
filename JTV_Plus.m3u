@@ -5,8 +5,9 @@ http://173.249.60.54/hls/jubilotv.m3u8
 http://181.119.111.25:4000/play/a05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/4D3mXZL/image.png" group-title="Guatemala",Canal 3 - GT
 https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RTqwjhjp/image.png" group-title="Guatemala",Guatemala Plus - Gt
-https://live-ak.vimeocdn.com/exp=1780624165~acl=%2F4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4%2F%2A~hmac=af554ac8e49aab93d0098417e6e38bdfd161056d537f4953991c050d44c45175/4039b4de-ebe3-4519-a498-d6e547659ff6_fmp4/avc/720p/chunklist.m3u8
+#EXTINF:0,Telemundo 2
+#EXTVLCOPT:network-caching=1000
+http://168.228.44.241:9998/play/a0dy/index.m3u8
 #EXTINF:-1 tvg-id="JubiloTV 1.gt@SD" tvg-logo="https://i.ibb.co/Q7BKVkmM/image.png" group-title="Cristianos",Júbilo TV 2 - GT
 http://163.192.159.156:8080/live/jubilotv.m3u8
 #EXTINF:-1 tvg-id="RhemaTV.gt@SD" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="Cristianos",Rhema TV - GT
