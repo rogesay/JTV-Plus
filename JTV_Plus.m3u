@@ -8,7 +8,7 @@ http://45.5.117.3:4000/play/a04j/index.m3u8
 #EXTINF:0,Canal 7 HD CR
 http://45.5.117.3:4000/play/a0b4/index.m3u8
 #EXTINF:11,DSPORT
-https://000963.videx.lol/videx/dsports/index.m3u8?key=87ce8e88dcfa475b50d8a42be9fb0893017c760c6cd28cb7cf4aada51390ffe5&expires=1782240665
+https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
 #EXTINF:11,DSPORT 2
 https://000963.videx.lol/videx/dsports2/index.m3u8?key=370eacee0b14df825767d84cd840c2a06ff276069368dc548b1aa48f9d56d4ed&expires=1782240826
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Telemundo
