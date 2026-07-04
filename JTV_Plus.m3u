@@ -117,7 +117,7 @@ https://tvlatina.live:1936/8008/ngrp:8008_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/x87x7JrS/LOGO-CANAL-30-SANTA-LUCIA-UTATL-N-1.png" group-title="Cultura",Canal 30 Utatlán - GT
 https://lbgo.bozztv.com/ssh101/ssh101/canal30utatlan/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NgHrwVFx/image.png" group-title="Guatemala",Azteca Guate - GT
-http://45.5.119.43:4000/play/a0h3/index.m3u8
+http://45.190.184.79:5800/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="Canal30TVBethel.gt@SD" tvg-logo="https://i.imgur.com/PP4U1JL.png" group-title="Cristianos",Canal 30 TV Bethel - GT
 https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
 #EXTINF:-1 tvg-id="MultivisionSports.gt@SD" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Deportes",Multivisión Sports - GT
