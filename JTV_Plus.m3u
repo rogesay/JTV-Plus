@@ -14,6 +14,7 @@ http://45.5.57.58:8000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Telemundo
 http://205.235.6.29:8000/play/a0nq/index.m3u8
 #EXTINF:11,Win
+#EXTVLCOPT:network-caching=1000
 http://200.10.30.241:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",DSPORTS
 http://45.173.231.22:8000/play/a0de/index.m3u8
