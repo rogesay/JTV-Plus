@@ -11,7 +11,7 @@ http://181.119.215.61:8000/play/a04p/index.m3u8
 http://181.78.74.146:18000/play/a03g
 #EXTINF:11,DSPORT
 http://45.5.57.58:8000/play/a07p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Telemundo
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Telemundo Miami
 http://200.115.96.61:9090/play/a0ii/index.m3u8
 #EXTINF:-1,Win
 #EXTVLCOPT:network-caching=1000
