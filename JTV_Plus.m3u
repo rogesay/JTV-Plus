@@ -12,7 +12,7 @@ http://181.78.74.146:18000/play/a03g
 #EXTINF:11,DSPORT
 http://45.5.57.58:8000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Telemundo
-http://205.235.6.29:8000/play/a0nq/index.m3u8
+http://200.115.96.61:9090/play/a0ii/index.m3u8
 #EXTINF:-1,Win
 #EXTVLCOPT:network-caching=1000
 http://200.10.30.241:8000/play/a01x/index.m3u8
