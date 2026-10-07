@@ -10,7 +10,7 @@ http://181.119.215.61:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
 http://200.35.176.154:8000/play/a03a/index.m3u8
 #EXTINF:11,DSPORT +
-http://181.78.74.146:18000/play/a03g
+http://38.187.22.140:25501/play/a01r/index.m3u8
 #EXTINF:11,DSPORT
 http://45.5.57.58:8000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Telemundo Miami
