@@ -8,7 +8,7 @@ http://45.5.117.3:4000/play/a04j/index.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="tvg-logo/a05.png" group-title="Deportes", 7 HD CR
 http://181.119.215.61:8000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN
-http://200.35.176.154:8000/play/a03a/index.m3u8
+http://45.5.118.152:8000/play/a04j/index.m3u8
 #EXTINF:11,DSPORT +
 http://38.187.22.140:25501/play/a01r/index.m3u8
 #EXTINF:11,DSPORT
